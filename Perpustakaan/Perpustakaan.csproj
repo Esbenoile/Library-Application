@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Perpustakaan</RootNamespace>
+    <AssemblyName>Perpustakaan</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BlackListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlackListForm.Designer.cs">
+      <DependentUpon>BlackListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UiDesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UiDesign.Designer.cs">
+      <DependentUpon>UiDesign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountPage.Designer.cs">
+      <DependentUpon>AccountPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminEditBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminEditBook.Designer.cs">
+      <DependentUpon>AdminEditBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calender.Designer.cs">
+      <DependentUpon>Calender.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashierForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashierForm.Designer.cs">
+      <DependentUpon>CashierForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodeItem.Designer.cs">
+      <DependentUpon>CodeItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommentPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommentPage.Designer.cs">
+      <DependentUpon>CommentPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Discover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Discover.Designer.cs">
+      <DependentUpon>Discover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseClass.cs" />
+    <Compile Include="EditProfilePicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditProfilePicture.Designer.cs">
+      <DependentUpon>EditProfilePicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InboxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InboxForm.Designer.cs">
+      <DependentUpon>InboxForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingForm.Designer.cs">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPage.Designer.cs">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page.Designer.cs">
+      <DependentUpon>Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfilePictureOther.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfilePictureOther.Designer.cs">
+      <DependentUpon>ProfilePictureOther.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterPage.Designer.cs">
+      <DependentUpon>RegisterPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RentingViewPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RentingViewPage.Designer.cs">
+      <DependentUpon>RentingViewPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RentPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RentPage.Designer.cs">
+      <DependentUpon>RentPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoundButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SessionActivityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SessionActivityForm.Designer.cs">
+      <DependentUpon>SessionActivityForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerificationEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerificationEmail.Designer.cs">
+      <DependentUpon>VerificationEmail.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BlackListForm.resx">
+      <DependentUpon>BlackListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UiDesign.resx">
+      <DependentUpon>UiDesign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountPage.resx">
+      <DependentUpon>AccountPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminEditBook.resx">
+      <DependentUpon>AdminEditBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashierForm.resx">
+      <DependentUpon>CashierForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodeItem.resx">
+      <DependentUpon>CodeItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommentPage.resx">
+      <DependentUpon>CommentPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Discover.resx">
+      <DependentUpon>Discover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditProfilePicture.resx">
+      <DependentUpon>EditProfilePicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InboxForm.resx">
+      <DependentUpon>InboxForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingForm.resx">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPage.resx">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page.resx">
+      <DependentUpon>Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfilePictureOther.resx">
+      <DependentUpon>ProfilePictureOther.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterPage.resx">
+      <DependentUpon>RegisterPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RentingViewPage.resx">
+      <DependentUpon>RentingViewPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RentPage.resx">
+      <DependentUpon>RentPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SessionActivityForm.resx">
+      <DependentUpon>SessionActivityForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerificationEmail.resx">
+      <DependentUpon>VerificationEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dwarfTest.jpeg" />
+    <None Include="Resources\download.jpg" />
+    <None Include="Resources\Screenshot_76.png" />
+    <None Include="Resources\WhatsApp Image 2024-11-17 at 21.52.19_ec622e96.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-16 at 19.21.33_2d476154.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-16 at 16.36.37_3f10208a.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-16 at 16.33.46_ba36d7ff.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-16 at 11.07.03_2a91882d.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-16 at 11.45.28_1746d33c.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-16 at 11.45.20_9d410e2b.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-16 at 09.38.48_d5f2e0e0.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-16 at 09.21.59_4d1cff08.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-06 at 10.43.07_2716c5c8.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-06 at 10.11.15_2fb7f659.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-05 at 13.58.28_89359fe3.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-05 at 13.59.03_30ca89bd.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-05 at 13.49.59_86e6a963.jpg" />
+    <None Include="Resources\WhatsApp Image 2024-11-05 at 13.49.37_48839d25.jpg" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\image.png" />
+    <None Include="Resources\PfpEmail.bmp" />
+    <None Include="Resources\Mystery_January_1934.jpg" />
+    <None Include="Resources\images %284%29.jpg" />
+    <None Include="Resources\41AiWNjwV-S._SY1000_.jpg" />
+    <None Include="Resources\images %283%29.jpg" />
+    <None Include="Resources\711gd93ifkl_custom-80dd66e555a05cf605f043ca0095760a75d41be4.jpeg" />
+    <None Include="Resources\61Q3NvpX1RL._AC_UF1000,1000_QL80_.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\images %282%29.jpg" />
+    <None Include="Resources\images %281%29.jpg" />
+    <None Include="Resources\a99db7ea01ae9e47114aee1f2d7f96d1.jpg" />
+    <None Include="Resources\dwarfTest.jpeg" />
+    <None Include="Resources\DwarfTest.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

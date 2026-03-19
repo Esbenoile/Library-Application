@@ -1,0 +1,544 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|c:\\users\\user\\pictures\\epic\\ppt\\uas\\uas uas\\uasperpustakaan-20241102t050451z-001-20241204t104621z-001\\uasperpustakaan-20241102t050451z-001\\uasperpustakaan\\perpustakaan\\perpustakaan\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\verificationemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\verificationemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\verificationemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\verificationemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\uidesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\uidesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Perpustakaan||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\sessionactivityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\sessionactivityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\inboxform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\inboxform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\discover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\discover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\discover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\discover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\sessionactivityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\sessionactivityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\inboxform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\inboxform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\rentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\rentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\rentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\rentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\accountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\accountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\profilepictureother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\profilepictureother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\databaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\databaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\admineditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\admineditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\admineditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\admineditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\uidesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\uidesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\rentingviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\rentingviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\blacklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\blacklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\perpustakaan\\accountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDACC4B7-7E1C-4226-9F8D-89C24CE03B45}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\accountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\AccountPage.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\AccountPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\AccountPage.cs",
+              "RelativeToolTip": "Perpustakaan\\AccountPage.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:08:10.142Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VerificationEmail.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\VerificationEmail.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\VerificationEmail.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\VerificationEmail.cs",
+              "RelativeToolTip": "Perpustakaan\\VerificationEmail.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAwHkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:10:19.636Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccountPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\AccountPage.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\AccountPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\AccountPage.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\AccountPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:27:18.42Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatabaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\DatabaseClass.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\DatabaseClass.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\DatabaseClass.cs",
+              "RelativeToolTip": "Perpustakaan\\DatabaseClass.cs",
+              "ViewState": "AgIAACkDAAAAAAAAAAAiwFQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:15:18.842Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProfilePictureOther.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\ProfilePictureOther.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\ProfilePictureOther.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\ProfilePictureOther.cs",
+              "RelativeToolTip": "Perpustakaan\\ProfilePictureOther.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:03:11.323Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BlackListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\BlackListForm.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\BlackListForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\BlackListForm.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\BlackListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:57:26.809Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RentPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\RentPage.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\RentPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\RentPage.cs",
+              "RelativeToolTip": "Perpustakaan\\RentPage.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAYwKYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:45:09.898Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Page.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Page.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Page.cs",
+              "RelativeToolTip": "Perpustakaan\\Page.cs",
+              "ViewState": "AgIAALYCAAAAAAAAAAAMwNUCAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:16:40.905Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Home.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Home.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Home.cs",
+              "RelativeToolTip": "Perpustakaan\\Home.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAwwPsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:56:41.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Menu.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Menu.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Menu.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:56:19.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Discover.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Discover.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Discover.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Discover.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\Discover.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:15:05.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminEditBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\AdminEditBook.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\AdminEditBook.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\AdminEditBook.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\AdminEditBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:39:42.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminEditBook.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\AdminEditBook.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\AdminEditBook.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\AdminEditBook.cs",
+              "RelativeToolTip": "Perpustakaan\\AdminEditBook.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAIwM8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:39:44.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Program.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Program.cs",
+              "RelativeToolTip": "Perpustakaan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:13:42.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\LoginPage.cs",
+              "RelativeToolTip": "Perpustakaan\\LoginPage.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAArwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:53:09.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Discover.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Discover.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Discover.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Discover.cs",
+              "RelativeToolTip": "Perpustakaan\\Discover.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwBgBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:15:06.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\RegisterPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\RegisterPage.cs",
+              "RelativeToolTip": "Perpustakaan\\RegisterPage.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAMwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:52:00.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Menu.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Menu.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Menu.cs",
+              "RelativeToolTip": "Perpustakaan\\Menu.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAAAgwO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:13:33.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Home.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Home.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Home.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:56:26.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\LoginPage.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:53:08.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UiDesign.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\UiDesign.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\UiDesign.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\UiDesign.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\UiDesign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:25:57.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CashierForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\CashierForm.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\CashierForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\CashierForm.cs [Design]*",
+              "RelativeToolTip": "Perpustakaan\\CashierForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:53:57.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RentingViewPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\RentingViewPage.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\RentingViewPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\RentingViewPage.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\RentingViewPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:20:38.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VerificationEmail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\VerificationEmail.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\VerificationEmail.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\VerificationEmail.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\VerificationEmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:52:11.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RentPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\RentPage.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\RentPage.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\RentPage.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\RentPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:45:07.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InboxForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\InboxForm.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\InboxForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\InboxForm.cs",
+              "RelativeToolTip": "Perpustakaan\\InboxForm.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:20:44.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InboxForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\InboxForm.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\InboxForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\InboxForm.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\InboxForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:20:43.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Page.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Page.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Page.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:14:50.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CashierForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\CashierForm.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\CashierForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\CashierForm.cs*",
+              "RelativeToolTip": "Perpustakaan\\CashierForm.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:53:58.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UiDesign.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\UiDesign.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\UiDesign.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\UiDesign.cs",
+              "RelativeToolTip": "Perpustakaan\\UiDesign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:56:00.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Perpustakaan",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj",
+              "RelativeDocumentMoniker": "Perpustakaan\\Perpustakaan.csproj",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj",
+              "RelativeToolTip": "Perpustakaan\\Perpustakaan.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T10:19:06.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SessionActivityForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\SessionActivityForm.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\SessionActivityForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\SessionActivityForm.cs",
+              "RelativeToolTip": "Perpustakaan\\SessionActivityForm.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:19:49.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SessionActivityForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\SessionActivityForm.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\SessionActivityForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Pictures\\EPIC\\PPT\\UAS\\UAS UAS\\UASPERPUSTAKAAN-20241102T050451Z-001-20241204T104621Z-001\\UASPERPUSTAKAAN-20241102T050451Z-001\\UASPERPUSTAKAAN\\Perpustakaan\\Perpustakaan\\SessionActivityForm.cs [Design]",
+              "RelativeToolTip": "Perpustakaan\\SessionActivityForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:42:02.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
